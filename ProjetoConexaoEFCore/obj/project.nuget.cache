@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DIkQXFZgE7pwEy62pBlCt/5B0QU3Y1UQ3VNQu2+C2qEZG9HuOoShPJUTfTdNLpgpCF4F4ppMyNDGrRGZa2eieA==",
+  "dgSpecHash": "2C8P351ECFE84QhP6AD+o7eZlBoUzkMBUul0peXfSiB0g6SK/bTlMpvpfmFtZKmhuYMGWKbH81dpiUkq/gpRZQ==",
   "success": true,
-  "projectFilePath": "C:\\temp\\ws-vs2019\\ProjetoConexaoEFCore\\ProjetoConexaoEFCore\\ProjetoConexaoEFCore.csproj",
+  "projectFilePath": "C:\\Users\\johnl\\source\\repos\\mentoria.net\\ProjetoConexaoEFCore\\ProjetoConexaoEFCore\\ProjetoConexaoEFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\johnl\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
